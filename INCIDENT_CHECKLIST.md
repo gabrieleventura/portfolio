@@ -1,3 +1,7 @@
+# Note
+
+This is a generic example reflecting my operational approach and does not refer to a specific production system.
+
 # Incident Response Checklist (Generic)
 
 This checklist outlines a disciplined, repeatable approach to handling operational incidents in Linux-based environments.  
