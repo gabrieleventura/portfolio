@@ -1,3 +1,7 @@
+# Note
+
+This is a generic example reflecting my operational approach and does not refer to a specific production system.
+
 # Project Overview — Shattered Minds (Cervelli Esplosi)
 
 Shattered Minds is a self-hosted bilingual website project focused on clear communication and accessibility.  
