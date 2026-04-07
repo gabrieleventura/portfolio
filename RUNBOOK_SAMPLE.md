@@ -1,3 +1,7 @@
+# Note
+
+This is a generic example reflecting my operational approach and does not refer to a specific production system.
+
 # Runbook Sample — Linux Operations (Generic)
 
 This document provides a high-level example of how I structure operational runbooks for Linux-based services.  
