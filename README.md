@@ -1,5 +1,6 @@
-# Professional Portfolio
+# Linux Operations & Incident Response Practices
 
-This repository contains selected documentation samples and high-level project overviews illustrating my approach to Linux systems administration, security-minded operations, and documentation-driven workflows.
+This repository contains structured documentation, runbooks, and incident response frameworks based on my approach to Linux systems administration and operational reliability.
 
-The materials included here are intentionally high-level and abstracted, focusing on methodology and operational reasoning rather than system-specific implementations.
+It complements hands-on infrastructure work by focusing on disciplined troubleshooting, decision-making, and maintainable operational workflows.
+
